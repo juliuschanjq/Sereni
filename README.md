@@ -18,6 +18,7 @@ Below you will find an over of the website implementation along with it's functi
 
 ![image](https://github.com/user-attachments/assets/36b2406b-54e0-4ae9-8f92-3a71e615910f)
 
+![image](https://github.com/user-attachments/assets/4880d8b5-5f92-4d2c-a260-98ec13c70e99)
 
 ## Homepage
 
